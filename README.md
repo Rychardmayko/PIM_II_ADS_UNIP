@@ -89,26 +89,24 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Esse projeto está sob a licença MIT.
 
 ## 🤵 Sobre mim
-<div align="center">
-<img src=https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55859290?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d>
-<h1>Marlon Akio Tochiro</h1>
+<h1>Vinicius Fernandes Umbelino dos Santos</h1>
 <strong>Student Developer ⓒ 2023</strong>
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/marlon-akio-ba1763134/" target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-fernandes-432584aa/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/marlonakio" target="_blank">
+<a href="https://github.com/vinicinfernandes" target="_blank">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:marlon.akto@gmail.com" target="_blank">
+<a href="mailto:viniciusub540@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://wa.me/5511977769829?text=Ol%C3%A1%21" target="_blank">
+<a href="https://wa.me/5511993961235?text=Ol%C3%A1%21" target="_blank">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
