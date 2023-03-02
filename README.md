@@ -89,6 +89,8 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Esse projeto está sob a licença MIT.
 
 ## 🤵 Sobre mim
+<div align="center">
+<img src=https://avatars.githubusercontent.com/u/124193529?s=400&u=5623c80e639493451bc30e62f036bfd03d9e1c11&v=4v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d>
 <h1>Vinicius Fernandes Umbelino dos Santos</h1>
 <strong>Student Developer ⓒ 2023</strong>
 <br/>
