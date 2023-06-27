@@ -80,7 +80,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 - Anderson Tenório
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)
 - [Marlon Akio Tochiro](https://github.com/marlonakio)
-- Rychard Mayko Rosado De Araujo
+- [Rychard Mayko Rosado De Araujo](https://github.com/Rychardmayko)
 - [Vinicius Fernandes Umbelino Dos Santos](https://github.com/vinicinfernandes)
 
 
@@ -89,20 +89,20 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Esse projeto está sob a licença MIT.
 
 ## 🤵 Sobre mim
-<h1>Vinicius Fernandes Umbelino dos Santos</h1>
+<h1>Rychard Mayko Rosado de Araujo</h1>
 <strong>Student Developer ⓒ 2023</strong>
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/vinicius-fernandes-432584aa/" target="_blank" rel="external">
+<a href="https://www.linkedin.com/in/rychardmayko/" target="_blank" rel="external">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vinicinfernandes" target="_blank" rel="external">
+<a href="https://github.com/Rychardmayko" target="_blank" rel="external">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:viniciusub540@gmail.com" target="_blank" rel="external">
+<a href="mailto:educador.rychard@gmail.com" target="_blank" rel="external">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
